@@ -1,0 +1,5 @@
+pyOpenSSL
+bcrypt
+flask
+flask-testing
+requests
